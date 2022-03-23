@@ -21,7 +21,7 @@ export default function Home() {
 					suscipit architecto, odio inventore nostrum non neque dicta. Quam magni
 					accusantium culpa distinctio tempore iure accusamus, dolorem nobis odit.
 				</p>
-				<Link href='/job'>
+				<Link href='/user'>
 					<a className={styles.btn}>See User Listing</a>
 				</Link>
 			</div>
